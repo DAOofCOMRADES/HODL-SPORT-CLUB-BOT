@@ -72,4 +72,4 @@ function retweet(searchText) {
 
 
 
-setInterval(function() { retweet('#dao OR #polygon'); }, 180000)
+setInterval(function() { retweet('#nftgiveaways OR #nft OR #nftgiveaway OR #nftdrops OR #nftcollector'); }, 180000)
